@@ -13,6 +13,6 @@ return array;
 function whileLoop(n) {
   return n > 0;
 }
-while(whileLoop()) {
+while (whileLoop()) {
   console.log(n)
 }
