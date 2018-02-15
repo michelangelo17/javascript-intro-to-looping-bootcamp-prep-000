@@ -13,5 +13,5 @@ return array;
 function whileLoop(n) {
   while (whileLoop(n > 0)) {
    console.log(--n);
-}
+  }
 }
