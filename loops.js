@@ -11,7 +11,7 @@ return array;
 }
 
 function whileLoop(n) {
-  return n > 0;
+  return n >= 0;
 }
 while (whileLoop()) {
   --n
