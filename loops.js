@@ -16,4 +16,3 @@ function whileLoop(n) {
 while (whileLoop()) {
   --n
 }
-console.log(n)
