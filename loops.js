@@ -15,7 +15,7 @@ function whileLoop(n) {
  while (countdown > 0) {
    console.log(--countdown);
  }
- return 'done'
+ return 'done';
 }
 
 function doWhileLoop(array) {
@@ -24,6 +24,5 @@ function doWhileLoop(array) {
   }
 }
   do {
-    array.pop()
+    array.pop();
   } while (maybeTrue())
-}
